@@ -1,0 +1,13 @@
+C:\exercise\FootballScoresProcessor\FootballScoresProcessor\bin\Debug\FootballScoresProcessor.exe.config
+C:\exercise\FootballScoresProcessor\FootballScoresProcessor\bin\Debug\FootballScoresProcessor.exe
+C:\exercise\FootballScoresProcessor\FootballScoresProcessor\bin\Debug\FootballScoresProcessor.pdb
+C:\exercise\FootballScoresProcessor\FootballScoresProcessor\bin\Debug\AnySportScoresFilesProcessor.dll
+C:\exercise\FootballScoresProcessor\FootballScoresProcessor\bin\Debug\AnySportScoresFilesProcessor.Models.dll
+C:\exercise\FootballScoresProcessor\FootballScoresProcessor\bin\Debug\AnySportScoresFilesProcessor.Models.pdb
+C:\exercise\FootballScoresProcessor\FootballScoresProcessor\bin\Debug\AnySportScoresFilesProcessor.pdb
+C:\exercise\FootballScoresProcessor\FootballScoresProcessor\obj\Debug\FootballScoresProcessor.csproj.AssemblyReference.cache
+C:\exercise\FootballScoresProcessor\FootballScoresProcessor\obj\Debug\FootballScoresProcessor.csproj.SuggestedBindingRedirects.cache
+C:\exercise\FootballScoresProcessor\FootballScoresProcessor\obj\Debug\FootballScoresProcessor.csproj.CoreCompileInputs.cache
+C:\exercise\FootballScoresProcessor\FootballScoresProcessor\obj\Debug\FootballScoresProcessor.csproj.CopyComplete
+C:\exercise\FootballScoresProcessor\FootballScoresProcessor\obj\Debug\FootballScoresProcessor.exe
+C:\exercise\FootballScoresProcessor\FootballScoresProcessor\obj\Debug\FootballScoresProcessor.pdb

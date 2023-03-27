@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Columns>
+  <Column Name="Team" Header="Team" Type="String" Index="0"></Column>
+  <Column Name="Played" Header="P" Type="Numeric" Index="1"></Column>
+  <Column Name="Win" Header="W" Type="Numeric" Index="2"></Column>
+  <Column Name="Loss" Header="P" Type="Numeric" Index="3"></Column>
+  <Column Name="Draw" Header="D" Type="Numeric" Index="4"></Column>
+  <Column Name="For" Header="P" Type="Numeric" Index="5"></Column>
+  <Column Name="Separator" Header="-" Type="String" Index="6"></Column>
+  <Column Name="Against" Header="A" Type="Numeric" Index="7"></Column>
+  <Column Name="Points" Header="Pts" Type="Numeric" Index="8"></Column>
+</Columns>

@@ -1,0 +1,6 @@
+C:\exercise\FootballScoresProcessor\AnySportScoresFilesProcessor.Models\bin\Debug\AnySportScoresFilesProcessor.Models.dll
+C:\exercise\FootballScoresProcessor\AnySportScoresFilesProcessor.Models\bin\Debug\AnySportScoresFilesProcessor.Models.pdb
+C:\exercise\FootballScoresProcessor\AnySportScoresFilesProcessor.Models\obj\Debug\AnySportScoresFilesProcessor.Models.csproj.AssemblyReference.cache
+C:\exercise\FootballScoresProcessor\AnySportScoresFilesProcessor.Models\obj\Debug\AnySportScoresFilesProcessor.Models.csproj.CoreCompileInputs.cache
+C:\exercise\FootballScoresProcessor\AnySportScoresFilesProcessor.Models\obj\Debug\AnySportScoresFilesProcessor.Models.dll
+C:\exercise\FootballScoresProcessor\AnySportScoresFilesProcessor.Models\obj\Debug\AnySportScoresFilesProcessor.Models.pdb
